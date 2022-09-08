@@ -1,6 +1,4 @@
-# ese5190-2022-lab1-firefly
-
-University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
+#University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
 
     (TODO) YOUR NAME HERE
         (TODO) LinkedIn, personal website, twitter, etc.
