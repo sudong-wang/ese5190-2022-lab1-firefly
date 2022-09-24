@@ -127,4 +127,8 @@ while True:
     info =keyboard_layout.write("Done\n")
     break
    ```
-    
+   here is the graph of my embedded system from 4.4 and the raw signal include change of light and gestures, and the processed signal also include the keyboard typing. 
+   
+show how the components interact:
+    ![e00f6acf933ff34fb779e203cb21e12](https://user-images.githubusercontent.com/113209201/192077685-969014e3-36d8-43ff-90ad-818e5939694f.jpg)
+
